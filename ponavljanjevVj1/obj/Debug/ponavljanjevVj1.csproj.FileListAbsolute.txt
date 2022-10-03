@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\ponavljanjevVj1\bin\Debug\ponavljanjevVj1.exe.config
+C:\Users\ucenik\Documents\ponavljanjevVj1\bin\Debug\ponavljanjevVj1.exe
+C:\Users\ucenik\Documents\ponavljanjevVj1\bin\Debug\ponavljanjevVj1.pdb
+C:\Users\ucenik\Documents\ponavljanjevVj1\obj\Debug\ponavljanjevVj1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\ponavljanjevVj1\obj\Debug\ponavljanjevVj1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\ponavljanjevVj1\obj\Debug\ponavljanjevVj1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\ponavljanjevVj1\obj\Debug\ponavljanjevVj1.exe
+C:\Users\ucenik\Documents\ponavljanjevVj1\obj\Debug\ponavljanjevVj1.pdb
